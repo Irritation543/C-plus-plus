@@ -1,4 +1,4 @@
-# C-plus-plus
+# C Project
 
 
 this just joke project maded by me.

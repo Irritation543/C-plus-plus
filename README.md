@@ -1,2 +1,6 @@
 # C-plus-plus
-just rofl
+
+
+this just joke project maded by me.
+
+just test
